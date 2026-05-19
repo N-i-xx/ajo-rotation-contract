@@ -1,1 +1,2 @@
 [dependencies]\nsoroban-sdk = "21.0.0"
+# Build Profile optimization
