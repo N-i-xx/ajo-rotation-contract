@@ -1,7 +1,4 @@
-# Vero Ajo Rotation Contract — Wave Program Contribution Plan
-
-The Wave Program works by having maintainers create scoped issues that contributors pick up during sprint cycles. Below is a description of the types of work we post, what each category covers, and what a good contribution looks like.
-
+# Vero Ajo Rotation Contract 
 ---
 
 ## 1. Bug Fixes
