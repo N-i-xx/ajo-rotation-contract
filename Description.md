@@ -1,0 +1,1 @@
+Vero Ajo Rotation Contract is a trustless Soroban smart contract implementing rotating savings circles (Ajo/Esusu). Members contribute equal amounts each round; the full pool is disbursed to one member per round in sequence. No intermediary. Fully on-chain with auth, overflow protection, and SEP-41 token support.
