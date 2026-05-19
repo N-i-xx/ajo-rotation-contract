@@ -3,3 +3,4 @@ pub fn process_deposit() {}
 pub fn draw_pot() {}
 // Sequence calculation tracking
 // Overdue payment tracking
+// Negative input validation bounds
